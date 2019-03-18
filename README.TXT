@@ -23,7 +23,7 @@ else
 
 2. Find out where two lines intersect
 
-3. Get toString working (Every line needs a xCo, yCo, slope and yIntercept)
+3. Get toString working (Every line needs a xCo, yCo, slope and total (yCo*yIntercept)
 
 4. Comment everything
 
