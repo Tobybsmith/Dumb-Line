@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Point
+comment0.text=\r\n\ Represents\ a\ point\ on\ the\ Cartesian\ plane\r\n\ \r\n\ @author\ R\ Jamieson\r\n\ @version\ 2.1\r\n
+comment1.params=xin\ yin
+comment1.target=Point(double,\ double)
+comment2.params=other
+comment2.target=double\ distanceToPoint(Point)
+comment2.text=\r\n\ Calculates\ the\ distance\ between\ this\ and\ "other"\r\n\ @param\ other\ The\ Point\ to\ which\ to\ calculate\ distance\r\n\ @return\ the\ distance\ from\ this\ to\ Point\ other\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=double\ getX()
+comment5.params=
+comment5.target=double\ getY()
+numComments=6
