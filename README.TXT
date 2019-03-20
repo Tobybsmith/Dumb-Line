@@ -9,12 +9,5 @@ HOW TO START THIS PROJECT: get java, download all this except for the .bluej fil
 AUTHORS: Me
 USER INSTRUCTIONS: Suffer. Liner algebra planned
 
-2. Find out where two lines intersect
-
-3. Get toString working (Every line needs a xCo, yCo, slope and yIntercept)
-
-4. Comment everything
-
-5. Make my own test cases
-
+//TODO:
 6. Fail ICS3U6 (AP edition)
