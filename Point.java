@@ -4,9 +4,9 @@
  * @author R Jamieson
  * @version 2.1
  */
-public class Point
-{
-    
+public class Point extends Main
+{ 
+
     double x;
     double y;
 
@@ -16,7 +16,7 @@ public class Point
         x = xin;
         y = yin;
     }
-    
+
     /**
      * Calculates the distance between this and "other"
      * @param other The Point to which to calculate distance
@@ -26,8 +26,8 @@ public class Point
     {
         return Math.sqrt(Math.pow(x - other.x, 2) + Math.pow(y - other.y, 2)); 
     }
-    
-	// returns a String that looks readable
+
+    // returns a String that looks readable
     public String toString()
     {
         return "(" + x + ", " + y + ")";
@@ -37,6 +37,7 @@ public class Point
     {
         return x;
     }
+
     public double getY()
     {
         return y;

@@ -27,6 +27,7 @@ public class Main
         System.out.println("Should say (-5.0, -8.0) on the line below.");
         System.out.println(p3.toString());
 
+
         boolean b2 = secondLine.isParallel(fourthLine); // returns true
         System.out.println("Should say true: " + b2);
         Point p4 = secondLine.intersects(fourthLine); // returns null because the Lines don't intersect. null is a keyword in java.

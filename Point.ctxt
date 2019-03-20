@@ -1,11 +1,11 @@
 #BlueJ class context
 comment0.target=Point
-comment0.text=\r\n\ Represents\ a\ point\ on\ the\ Cartesian\ plane\r\n\ \r\n\ @author\ R\ Jamieson\r\n\ @version\ 2.1\r\n
+comment0.text=\n\ Represents\ a\ point\ on\ the\ Cartesian\ plane\n\ \n\ @author\ R\ Jamieson\n\ @version\ 2.1\n
 comment1.params=xin\ yin
 comment1.target=Point(double,\ double)
 comment2.params=other
 comment2.target=double\ distanceToPoint(Point)
-comment2.text=\r\n\ Calculates\ the\ distance\ between\ this\ and\ "other"\r\n\ @param\ other\ The\ Point\ to\ which\ to\ calculate\ distance\r\n\ @return\ the\ distance\ from\ this\ to\ Point\ other\r\n
+comment2.text=\n\ Calculates\ the\ distance\ between\ this\ and\ "other"\n\ @param\ other\ The\ Point\ to\ which\ to\ calculate\ distance\n\ @return\ the\ distance\ from\ this\ to\ Point\ other\n
 comment3.params=
 comment3.target=java.lang.String\ toString()
 comment4.params=
